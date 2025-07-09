@@ -1,6 +1,8 @@
-/// NOTE  1.  Single quotation for char ' '
-///       2.  f or F at last for float number 
-///       3.  String  has            variable.charAT(index)
+// NOTE  1.  Single quotation for char ' '
+//       2.  f or F at last for float number 
+//       3.  String  has            variable.charAT(index)
+//       4.  Default value of BOOLEAN is  false
+
 import java.lang.System;
 class hello{
       public static void main(String args[])
@@ -16,5 +18,6 @@ class hello{
 
         Boolean c = true;   /// or false also
         System.out.println(c);
+
       }
 }
