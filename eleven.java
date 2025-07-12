@@ -1,4 +1,6 @@
 // ternary operator
+// Replaces the need of  if-else
+
 import java.lang.System;
 import java.util.Scanner;
 
