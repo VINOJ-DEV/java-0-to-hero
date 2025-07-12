@@ -1,3 +1,5 @@
+// get mark and convert into out of 10
+
 import java.lang.System;
 import java.util.Scanner;
 
