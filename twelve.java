@@ -1,4 +1,4 @@
-
+// For loop is used to repeatedly execute a Block of statements for a specific number of time
 
 import java.lang.System;
 import java.util.Scanner;
