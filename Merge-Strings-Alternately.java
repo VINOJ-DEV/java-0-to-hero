@@ -1,3 +1,5 @@
+// StringBuilder is a class in Java that provides a mutable sequence of characters, allowing for efficient string manipulation. Unlike the String class, which is immutable, StringBuilder allows modifications to the string without creating new objects, making it more efficient for frequent string operations
+// such as append, insert, replace, delete, and reverse.
 
 class Solution {
     public String mergeAlternately(String word1, String word2) {
