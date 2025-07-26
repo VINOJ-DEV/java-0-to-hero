@@ -1,9 +1,10 @@
+// solution : Find consecutive 11111.... by lenght (right-left+)
 class Solution {
     public int longestOnes(int[] nums, int k) {
         // No window len is given so, we need dynamic window based on condition
         // step1 : basic var needed
         int max=0;
-        int flip=0;  // counts to check k
+        int flip=0;
         int left = 0;
 
         for(int i=0;i<nums.length;i++)
@@ -18,8 +19,5 @@ class Solution {
         }
         // assume i is right
         return max;
-            
-
         }
-        
     }
